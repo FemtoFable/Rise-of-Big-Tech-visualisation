@@ -1,5 +1,5 @@
 # Rise-of-Big-Tech-visualisation
-![My Image](Final_visualisation.jpg)
+![Alt text](Final_visualisation.png)
 A python visualisation of the rise of Big Tech firms over 20 years using plotly and matplotlib 
 
 This visualisation has been built with python. The code is inside a Jupyter Notebook file.
